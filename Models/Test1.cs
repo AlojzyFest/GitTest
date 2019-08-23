@@ -7,5 +7,6 @@ namespace GitTest.Models
 {
     public class Test1
     {
+        int x;
     }
 }
