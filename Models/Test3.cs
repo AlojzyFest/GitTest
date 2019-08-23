@@ -5,9 +5,7 @@ using System.Threading.Tasks;
 
 namespace GitTest.Models
 {
-    public class Test2
+    public class Test3
     {
-        int x;
-        int y;
     }
 }
