@@ -9,5 +9,6 @@ namespace GitTest.Models
     {
         int x = 5;
         string test = "test";
+        string testResetu;
     }
 }
