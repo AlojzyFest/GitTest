@@ -11,6 +11,7 @@ namespace GitTest.Models
         string test = "test";
         string testResetu;
         //Dane do usuniecia po commicie
+        //Dane do fetch
 
     }
 }
