@@ -10,5 +10,7 @@ namespace GitTest.Models
         int x;
         int y;
         string TestResetu;
+
+        //Zmiany do galezi master bez testing
     }
 }
