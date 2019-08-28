@@ -13,5 +13,7 @@ namespace GitTest.Models
 
         //Zmiany do galezi master bez testing
         //Test jedzie do przodu
+
+        //Test jedzie do przodu 2
     }
 }
