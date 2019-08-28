@@ -13,5 +13,8 @@ namespace GitTest.Models
         //Dane do usuniecia po commicie
         //Dane do fetch
 
+        //Master jedzie do przodu
+
+
     }
 }
